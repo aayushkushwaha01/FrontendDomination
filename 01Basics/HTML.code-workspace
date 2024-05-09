@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../../HTML"
+		},
+		{
+			"path": "../../JAVA PROGRAMS"
+		},
+		{
+			"path": "../../../../../../inetpub/wwwroot"
+		},
+		{
+			"path": "../../FILE CONVERTER"
+		},
+		{
+			"path": "../../file converter2"
+		},
+		{
+			"path": "../../NewConverter"
+		},
+		{
+			"path": "../../ConvertWeb"
+		},
+		{
+			"path": "../../demo"
+		},
+		{
+			"path": "../../DOCXtoPDF"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FILE CONVERTER"
+	}
+}
